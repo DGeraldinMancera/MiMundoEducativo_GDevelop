@@ -1,0 +1,8 @@
+{
+  apiKey: "AIzaSyCgniiBge_Sq10BuFlXubNcnOlxLSz5Ysg",
+  authDomain: "mi-mundo-educativo.firebaseapp.com",
+  projectId: "mi-mundo-educativo",
+  storageBucket: "mi-mundo-educativo.appspot.com",
+  messagingSenderId: "912797640163",
+  appId: "1:912797640163:web:e6bef3c61c6647a95decd6"
+};
